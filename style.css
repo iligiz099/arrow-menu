@@ -47,7 +47,7 @@ ul li a{
     height: 15px;
     border-top: 8px solid rgb(27, 132, 218);
     border-right: 8px solid rgb(27, 132, 218);
-    transform: rotate(45deg) translate(-20px,20px);
+    transform: rotate(45deg) translate(-40px,40px);
 }
 #marker::after{
     content: '';
@@ -55,5 +55,5 @@ ul li a{
     height: 15px;
     border-top: 8px solid rgb(27, 132, 218);
     border-right: 8px solid rgb(27, 132, 218);
-    transform: rotate(225deg) translate(-20px,20px);
+    transform: rotate(225deg) translate(-40px,40px);
 }
